@@ -21,7 +21,9 @@ Alenljung B, Persson A
 [3] Engineering and Managing Software RequirementsNgo-The A, Ruhe G
 [4]When product managers gamble with requirements: attitudes to value and riskFogelstrom N, Barney S, Aurum A, Hederstierna A
 Find Article2009
-3.[5]"Requirements Prioritization" Patrik Berander and Anneliese Andrews
+3.
+[5]"Requirements Prioritization" Patrik Berander and Anneliese Andrews
+[6] Wnuk K. Visualizing, Analyzing and Managing the Scope of Software Releases in Large-Scale Requirements Engineering[D]. Lund University, 2012.
 
 
 Answer for question 1:
@@ -30,5 +32,8 @@ Large scale requirement engineering means the thousands of requirement continous
 Answer for question 2
 There are many challenges for large scale requirement engineering. There are ill-structured problems, uncertain environments, shifting goals, action andfeedback loops, time stress, high stakes, multiple-stakeholder situations, and organizational goalsand norms among the decision-making challenges. Besides, requirements decisions of large scale requirement are hard because of the incompleteness of the available information. What's more, release planning based on uncertain estimates as one of the challenges in MDRE. Addtional,  it is difficult in ﬁnding the right balance between selecting commercial requirements andinternal quality requirements. And requirements prioritization is another challenges because of conﬂicting priorities between stakeholders, complex dependenciesbetween requireme nts , or multi-objective decision problems. Last but not least, high empowerment level of a cohesive agile software development team may negatively impact decision making.
 
-Answer for question3:
-There are many techniques for reuqirement Prioritization. Analytical Hierarchy Process (AHP),  Cumulative Voting, the 100-Dollar Test, Numerical Assignment (Grouping), Ranking and Top-Ten Requirements.
+Answer for question 3:
+Small-Scale Requirements Engineering(SSRE) 10 requirenets
+Medium-Scale Requirements Engineering(MSRE) 100 requirements
+Large-Scale Requirements Engineering(LSRE)  1000 requirements
+Very Large-Scale Requirements Engineering(VLSRE) 10000 requirements
