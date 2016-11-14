@@ -1,4 +1,4 @@
-Seminar0
+Seminar1
 Questions:
 1 What is large scale requirements engineering?
 2 What are the challenges in large scale requirements engineering?
@@ -54,3 +54,28 @@ This paper describes a specific industrial RE process for packaged software, cal
 selecting and managing requirements on a product family called Telelogic Tau - a software development environment for real-time systems. There are several actors involved in REPEAT: Requirements Management Group (RQMG), Issuer, Customers and users, Requirements team, Construction team, Test team, Expert, Requirements Database (RQDB). And there are six stages of REPEAT: new, assigned, classified, rejected, selected and applied. It is believed that REPEAT can cause the dramatic improvement in release precision and product quality are the prioritization of requirements, the effort estimation, the detailed requirements specification, and the continuous change management throughout design, implementation and verification. However, there are still some challenges such as: Overload control, Connecting fragments, Bridging the chasm between elicitation and selection, Long-term product strategy for a diversity of market segments, Hierarchical use case modelling, Cost-value use case prioritization.
 Summary of A Case Study Evaluation of the Guideline-Supported Q UPER Model for Elicitation of Quality Requirements:
 This paper presents the first complete version of the QUPER model, including the detailed guidelines of how to apply QUPER in practice.The development, evolvement, and refinement, parts of the model has been validated in a series of steps in prior industry validation.The main new contribution of this paper is the pritiacl guidelines. And the cost dependency is added into QUPER because dependencies may have a major impact on the estimated cost for other QR. Besides, the complete version of QUPER was evaluated in industry with 24 industry professionals using real QR. The paper result emphasizes that it is rather important to having concrete guidelines combined with instructive examples from real practice.
+
+Seminar2
+1. Read up on GAP / CVA / IVA Analysis!
+2. What tools are available for Continuous Integration?
+3. Try one out (build something, have it run tests automatically, . . . ),
+and write up your experiences.
+4. What is technical product management?
+5. What is roadmapping? How can you do it large scale?
+
+Answer for question1:
+(1) GPA analysis measures positive and negative “gaps” between what the product offers and what
+the customer perceives.Features and characteristics of the product are identified and their fulfillment of customer needs is mapped. A positive gap represents when a product delivers more than is expected,a negative gap the opposite.
+
+(2) Customer Value Analysis (CVA) is similar to GPA analysis but also includes the perspective of using competitor products in the analysis and the evaluated product is graded with regards to the value of a need in comparison to alternatives.
+
+(3) Internal Value Analysis (IVA) is a technique to measure whether or not a product is in line with the product strategies (and the company strategies), taking limited resources and other products into account.Using IVA, factors like resources available (time, money, risk, and knowledge) can be taken into consideration, complementing data from both GAP/CVA analysis, prioritization of requirements, dependency mapping, and cost estimates. Combined, this can form decision support material for requirements selection taking product strategies into consideration.
+
+Answer for question2: 
+Jenkins: Jenkins is an open source CI tool written in Java. The Jenkins has two major jobs: one is building/testing software projects continuously and another one is monitoring externally run jobs. It can run tests automatically.
+
+Answer for question3:
+Technical product management focus on technology part of the project. It requires to use technical skills to improve prioritization and planning. It includes assess the risks of certain feature and communicate with develop team about the stories or tasks in detail. Besides, it requires method to close the communication gap between developer and the rest of employees.
+
+Answer for question4: 
+A roadmap is a relatively common way of representing targets based on development in the context of time and releases. As for large scale, the roadmapping should reflect not only current market knowledge and customer priorities but also the long-term goals set for a certain product. Ignore this product strategy to build roadmap for a product may success in a short term but expense at long term goal.
