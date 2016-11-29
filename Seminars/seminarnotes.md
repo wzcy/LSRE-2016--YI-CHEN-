@@ -159,3 +159,22 @@ The Scaled Agile Framework is a freely revealed knowledge base of proven, integr
 For: It is free and have lot of benefits mentioned above. It is suitable for companies to build agile team and gain benefits from it.
 
 Against: I have not find any against so far.
+
+
+
+Seminar4:
+
+Summary of What Happened to Our Features? Visualization and Understanding of Scope Change Dynamics in a Large-Scale Industrial Setting:
+The paper introduces a technique called feature survival charts which is for visualization of scoping change dynamics. This technique increase the understanding of performance of scoping process.It is because it provides feedback not only about ongoing scoping activities but also a a visualization of previous project scoping activities. And then the author applied this technique into case companies, the result indicate that FSC outperform the past used table-based textual method to track the scope changes in the case company. 
+
+For: A visualization of scoping change dynamics is really a good technique to track the scope change. It can help companies to get a lesson from the previous project by visualization the scope change. For example, if the company find that there are many late removal of previously accepted features in last project of visualization. The company should consider the reason why this phenomenon happened. The reason can be lack of resources. So the company may pay more attention to the resources analysis and it may avoid this phenomenon. 
+
+Against: Not a against but a suggestion. A visualization is a excellent method. However, we should not neglect the effect of table-based textual method or documentation. It is because the analysis of the reason why scope change is hard to present in the visualization technique. I suggest that the combine of these two method can benefit the company most.
+
+Summary of Obsolete software requirements:
+
+The paper takes a survey among 219 respondents from 45 countries about the phenomenon of obsolete software requirement. The result indicate that OSRs are the significant challenges for software development companies. And the authors suggest that it is needed to develop automated tools or methods to support identification and management of OSRs. Manually managing OSRs may be sufficient in small project. However, in large scale requirement, it is suggested to develop scalable methods that scale to a reality which is often characterized by large numbers of requirements and a substantial and continuous influx of new requirements.
+
+For: In large scale requirement, there are more than hundred requirements which tend to have large issue related to the presence of OSRs. So the OSRs will have big impact on the large project compared with small project. To short the time for detect and handle the OSRs in large scale requirement, the automated tools or methods is needed. 
+
+Against: As far as I am concerned, It may be a little difficult to build a standard tool for OSRs management. Because different project have different scope, different environment, different stakeholders and so on. These all need to be put into consideration when building this kind of tool. On the other hand, develop a automated tool for identification and management of OSRs in a specific project can be possible. But what is the cost for the tool and how much the company can benefit from it is another question.
